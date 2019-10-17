@@ -3,8 +3,4 @@
 This is something edited locally
 
 
-##this is for remove-ipsum branch
-
-Editing on update-readme branch
-
-Locally edited  
+Update made on master on Github before rebase
